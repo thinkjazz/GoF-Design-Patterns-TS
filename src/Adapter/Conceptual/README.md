@@ -1,3 +1,4 @@
+# Adapter
 Client: I can work just fine with the Target objects:
 Target: The default target's behavior.
 
